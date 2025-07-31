@@ -1,7 +1,5 @@
 # Basic-Simple-Python-programs
 
-# Basic Python Programs
-
 This repository contains two beginner-friendly Python programs:
 1. A calculator for basic math operations.
 2. A greeting program that takes the user's name with input validation.
